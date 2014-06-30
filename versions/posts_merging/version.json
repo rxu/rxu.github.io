@@ -1,0 +1,11 @@
+{
+    "stable": {
+        "2.0": {
+            "current": "2.0.0",
+            "announcement": "http://anderson.phpbbguru.net/viewtopic.php?f=5&t=33",
+            "download": "https://github.com/rxu/posts_merging",
+            "eol": null,
+            "security": false
+        }
+    }
+}
