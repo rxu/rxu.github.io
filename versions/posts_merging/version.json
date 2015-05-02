@@ -9,7 +9,7 @@
     },
     "unstable": {
         "2.0": {
-            "current": "2.0.3",
+            "current": "2.0.3-dev",
             "download": "https://github.com/rxu/posts_merging",
             "eol": null,
             "security": false
