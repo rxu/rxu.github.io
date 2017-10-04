@@ -1,15 +1,15 @@
 {
     "stable": {
-        "2.0": {
-            "current": "2.0.2",
-            "download": "https://github.com/rxu/posts_merging/releases",
+        "2.1": {
+            "current": "2.1.0",
+            "download": "https://www.phpbb.com/customise/db/extension/postsmerging/",
             "eol": null,
             "security": false
         }
     },
     "unstable": {
-        "2.0": {
-            "current": "2.0.3-dev",
+        "2.1": {
+            "current": "2.1.1-dev",
             "download": "https://github.com/rxu/posts_merging",
             "eol": null,
             "security": false
