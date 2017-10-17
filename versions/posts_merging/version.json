@@ -2,7 +2,7 @@
     "stable": {
         "2.1": {
             "current": "2.1.0",
-            "download": "https://www.phpbb.com/customise/db/extension/postsmerging/",
+            "download": "https://www.phpbb.com/customise/db/download/147121",
             "eol": null,
             "security": false
         }
@@ -10,7 +10,7 @@
     "unstable": {
         "2.1": {
             "current": "2.1.1-dev",
-            "download": "https://github.com/rxu/posts_merging",
+            "download": "https://github.com/rxu/posts_merging/archive/master.zip",
             "eol": null,
             "security": false
         }
